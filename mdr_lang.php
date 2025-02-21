@@ -1,3 +1,3 @@
 <?php
-highlight_file("index.php", false);
+show_source("index.php", false);
 ?>
