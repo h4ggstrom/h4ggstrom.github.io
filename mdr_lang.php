@@ -1,3 +1,3 @@
 <?php
-echo(system("cat index.php"));
+highlight_file("index.php", false);
 ?>
